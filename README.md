@@ -1,11 +1,11 @@
 # Projects
 See here some of Ilai's latest projects. Thank you for supporting me!
 
-1.Content based recommender systems
+1. Content based recommender systems
 
-2.Experimental Paper Empathy and social anxiety 
+2. Experimental Paper Empathy and social anxiety 
 
-3.Reuters Corpus NLP Project 
+3. Reuters Corpus NLP Project 
 
-4.Twitter sentiment analysis 
+4. Twitter sentiment analysis 
 
