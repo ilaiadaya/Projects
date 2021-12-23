@@ -5,16 +5,18 @@ In it I explore topics like psychology, art, education, teaching and social netw
 
 ### A little about myself
 
-I'm dedicated to shaping a better tomorrow. I have boundless curiosity to learn more and improve how I learn, collaborate with brilliant people and to always stay humble. 
+I'm dedicated to shaping a better tomorrow. I have boundless curiosity to learn more and improve how I learn, collaborate with brilliant people and to always stay humble.
 
 ## See here some of my latest projects. Thank you for supporting me!
 
-1. Content based recommender systems
+1. Content based recommender systems for music
 
 2. Experimental Paper Empathy and social anxiety 
 
-3. Reuters Corpus NLP Project 
+3. Reuters Corpus NLP Project for teaching NLP
 
-4. Twitter sentiment analysis 
+4. Twitter sentiment analysis for teaching NLP
 
 5. Exhibition: Question Reality.
+
+6. Surfing the chain - An analysis of blockchain-based data storage solutions to the data availability problem of decentralized social networks.
