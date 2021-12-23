@@ -1,7 +1,10 @@
-# Ilai Bachrach
+# Ilai's latest work
 
-My work follows a simple formula: data + story = powerful messages. 
-I explore psychology, art, education, teaching and social networks... through DATA SCIENCE.
+My latest work follows a simple formula: data + story = powerful messages. 
+In it I explore topics like psychology, art, education, teaching and social networks... through DATA SCIENCE.
+
+### A little about myself
+
 I'm dedicated to shaping a better tomorrow. I have boundless curiosity to learn more and improve how I learn, collaborate with brilliant people and to always stay humble. 
 
 ## See here some of my latest projects. Thank you for supporting me!
