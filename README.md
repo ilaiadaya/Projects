@@ -19,4 +19,4 @@ I'm dedicated to shaping a better tomorrow. I have boundless curiosity to learn 
 
 5. Exhibition: Question Reality.
 
-6. Surfing the chain - An analysis of blockchain-based data storage solutions to the data availability problem of decentralized social networks.
+6. Surfing the chain: blockchain-based data storage solutions.
