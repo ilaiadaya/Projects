@@ -5,7 +5,7 @@ In it I explore topics like psychology, art, education, teaching and social netw
 
 ### A little about myself
 
-I'm dedicated to shaping a better tomorrow. I have boundless curiosity to learn more and improve how I learn, collaborate with brilliant people and to always stay humble.
+I'm dedicated to shaping a better tomorrow. I have boundless curiosity to learn more and improve how I learn, collaborate with brilliant people, and to always stay humble.
 
 ## See here some of my latest projects. Thank you for supporting me!
 
