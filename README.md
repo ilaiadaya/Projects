@@ -1,6 +1,8 @@
 # Ilai's latest work
 
-My latest work follows a simple formula: data + story = powerful messages. 
+Update: My latest work is not available on github due to NDA agreements with CVMaker and Machine Learning Programs (MLP).
+
+My work follows a simple formula: data + story = powerful messages. 
 In it I explore topics like psychology, art, education, teaching and social networks... through DATA SCIENCE.
 
 ### A little about myself
