@@ -11,20 +11,20 @@ I'm dedicated to shaping a better tomorrow. I have boundless curiosity to: learn
 
 ## See here some of my latest projects. Thank you for supporting me!
 
-1. Content based recommender systems for music
+1. Content based recommender systems for music.
 
-2. Experimental Paper Empathy and social anxiety 
+2. Experimental Paper Empathy and social anxiety.
 
-3. Reuters Corpus NLP Project for teaching NLP
+3. Reuters Corpus NLP Project for teaching NLP.
 
-4. Twitter sentiment analysis for teaching NLP
+4. Twitter sentiment analysis for teaching NLP.
 
 5. Exhibition: Question Reality.
 
 6. Surfing the chain: blockchain-based data storage solutions.
 
-7. Open sourced Community-based event platform TapMatch: https://github.com/TapMatch.
+7. TapMatch: Open sourced Community-based event platform.
 
-8. Masters Thesis on SHADOW (Shallow Distance Learning)
+8. Masters Thesis on SHADOW (Shallow Distance Learning).
    
 10. Morfff: A place to connect through generative images.
